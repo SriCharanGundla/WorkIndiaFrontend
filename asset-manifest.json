@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WorkIndiaFrontend/static/css/main.7eebc124.css",
+    "main.js": "/WorkIndiaFrontend/static/js/main.079b54db.js",
+    "index.html": "/WorkIndiaFrontend/index.html",
+    "main.7eebc124.css.map": "/WorkIndiaFrontend/static/css/main.7eebc124.css.map",
+    "main.079b54db.js.map": "/WorkIndiaFrontend/static/js/main.079b54db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.079b54db.js"
+  ]
+}
